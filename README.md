@@ -1,7 +1,8 @@
 - setup vite project
 
 npm create vite@latest cozy-nest -- --template react
-cd comfy-store
+
+cd cozy-nest
 
 - add tailwind
 
